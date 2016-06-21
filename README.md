@@ -37,4 +37,4 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 ## Contents
 
 #### Casseroles
-...[Cabbage Casserole](https://github.com/parry-drew/Cooking/blob/master/CabbgeCasserole.md)
+* [Cabbage Casserole](https://github.com/parry-drew/Cooking/blob/master/CabbgeCasserole.md)
