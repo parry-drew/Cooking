@@ -5,16 +5,19 @@ Recipes Collected by Jody Wolfe
 ## Merry Christmas 1996
 Through our lives, we have found comfort in the love and traditions of family.
 Often we are reminded of this comfort through food - Dad's glumpkies on a cool
-autumn day of sledding at Kearsley Park. After Owen's birth, I was fortunate to
-have spent time with Cecilia who gave me a crash course in home cooking. So I
-decided to collect the recipes that Tom remembers from his youth and thought you
-might enjoy them. It includes a few new favorites from Cecilia.
+autumn day or Mom's chili after a day of sledding at Kearsley Park. After Owen's
+birth, I was fortunate to have spent time with Cecilia who gave me a crash course
+in home cooking. So I decided to collect the recipes that Tom remembers from his
+youth and thought you might enjoy them. It includes a few new favorites from Cecilia.
 
 I hope that my children's memories of family dinners are as fond as Tom's. I
 plan on adding our family cookbook and passing it on our kids. I would like to
 include recipes from the Wolfe get togethers - such as Kathy's great salads,
 Marilyn's cheesecakes, Karen's beans and Betty's potatoes. If you would like to
 make this a living cookbook, I would love to be the secretary to keep it up-to-date.
+
+-Jody Wolfe, 1996
+
 
 ## Memorable Feasts of the Wolfes
 **Christmas Morning:**
@@ -40,3 +43,12 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 * [Cabbage Casserole](https://github.com/parry-drew/Cooking/blob/master/CabbgeCasserole.md)
 * [Chicken and Broccoli Casserole](https://github.com/parry-drew/Cooking/blob/master/ChickenBroccoliCasserole.md)
 * [Glumpkies](https://github.com/parry-drew/Cooking/blob/master/Glumpkies.md)
+
+#### Desserts
+* [Banana Cake](https://github.com/parry-drew/Cooking/blob/master/BananaCake.md)
+* [Chocolate Chip Cookies](https://github.com/parry-drew/Cooking/blob/master/ChocolateChipCookies.md)
+* [Molasses Crinkles](https://github.com/parry-drew/Cooking/blob/master/MolassesCrinkles.md)
+* [Pineapple Upside Cake](https://github.com/parry-drew/Cooking/blob/master/PineappleUpsideCake.md)
+* [Poor House Cake](https://github.com/parry-drew/Cooking/blob/master/PoorHouseCake.md)
+* [Pudding Cake](https://github.com/parry-drew/Cooking/blob/master/PuddingCake.md)
+* [Swedish Cake](https://github.com/parry-drew/Cooking/blob/master/SwedishCake.md)
