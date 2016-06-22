@@ -3,7 +3,7 @@
 * Preparation Time: 30 minutes
 * Categories: Casseroles Vegetables
 
-    * 8   cups cabbage, thinly sliced
+    ```* 8   cups cabbage, thinly sliced
 
     * 1   can celery soup
 
@@ -18,6 +18,7 @@
     * 2   tablespoon butter, melted
 
     * 1/2 cup cheese, shredded
+    ```
 
 Preheat oven to 375 degrees.
 
