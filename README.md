@@ -38,3 +38,5 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 
 #### Casseroles
 * [Cabbage Casserole](https://github.com/parry-drew/Cooking/blob/master/CabbgeCasserole.md)
+* [Chicken and Broccoli Casserole](https://github.com/parry-drew/Cooking/blob/master/ChickenBroccoliCasserole.md)
+* [Glumpkies](https://github.com/parry-drew/Cooking/blob/master/Glumpkies.md)

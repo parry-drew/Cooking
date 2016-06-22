@@ -1,4 +1,5 @@
 ## Cabbage Casserole
+* **Recipe By:** Cecilia Degrow
 * **Serving Size:** 6
 * **Preparation Time:** 30 minutes
 * **Categories:** Casseroles Vegetables
@@ -26,6 +27,6 @@ Preheat oven to 375 degrees.
 Cook cabbage in boiling water until almost tender (3 to 4 minutes).
 
 Combine soup, salad dressing, milk and salt. Heat in separate pan. Pour butter
-over corn flakes
+over corn flakes.
 
 Top with remaining flakes and cheese. Bake for 15 minutes or until it begins to bubble.
