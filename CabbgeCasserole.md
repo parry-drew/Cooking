@@ -3,7 +3,8 @@
 * Preparation Time: 30 minutes
 * Categories: Casseroles Vegetables
 
-    ```* 8   cups cabbage, thinly sliced
+    ```
+    * 8   cups cabbage, thinly sliced
 
     * 1   can celery soup
 
