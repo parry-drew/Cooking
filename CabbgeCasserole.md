@@ -1,7 +1,7 @@
 ## Cabbage Casserole
-* Serving Size: 6
-* Preparation Time: 30 minutes
-* Categories: Casseroles Vegetables
+* **Serving Size:** 6
+* **Preparation Time:** 30 minutes
+* **Categories:** Casseroles Vegetables
 
 ```
  8   cups cabbage, thinly sliced
