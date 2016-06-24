@@ -45,9 +45,14 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 * [Glumpkies](https://github.com/parry-drew/Cooking/blob/master/Glumpkies.md)
 
 #### Desserts
+* [Apple Crunch](https://github.com/parry-drew/Cooking/blob/master/AppleCrunch.md)
 * [Banana Cake](https://github.com/parry-drew/Cooking/blob/master/BananaCake.md)
 * [Chocolate Chip Cookies](https://github.com/parry-drew/Cooking/blob/master/ChocolateChipCookies.md)
+* [Chocolate/Peanut Butter Topping](https://github.com/parry-drew/Cooking/blob/master/CChocolate/PeanutButterTopping.md)
+* [Creme Puffs](https://github.com/parry-drew/Cooking/blob/master/CChocolate/CremePuffs.md)
 * [Molasses Crinkles](https://github.com/parry-drew/Cooking/blob/master/MolassesCrinkles.md)
+* [No Bake Chocolate Cookies](https://github.com/parry-drew/Cooking/blob/master/NoBakeChocolateCookies.md)
+* [Peanut Butter Fudge](https://github.com/parry-drew/Cooking/blob/master/PeanutButterFudge.md)
 * [Pineapple Upside Cake](https://github.com/parry-drew/Cooking/blob/master/PineappleUpsideCake.md)
 * [Poor House Cake](https://github.com/parry-drew/Cooking/blob/master/PoorHouseCake.md)
 * [Pudding Cake](https://github.com/parry-drew/Cooking/blob/master/PuddingCake.md)
