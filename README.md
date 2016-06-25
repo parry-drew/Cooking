@@ -73,3 +73,6 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 
 #### Soup
 * [Bean Soup](https://github.com/parry-drew/Cooking/blob/master/BeanSoup.md)
+
+#### Vegetarian/Vegan
+* [Baked Seitan](https://github.com/parry-drew/Cooking/blob/master/BakedSeitan.md)
