@@ -69,7 +69,7 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 * [Spinach Salad](https://github.com/parry-drew/Cooking/blob/master/SpinachSalad.md)
 
 #### Sides
-* [BScalloped Potatoes](https://github.com/parry-drew/Cooking/blob/master/ScallopedPotatoes.md)
+* [Scalloped Potatoes](https://github.com/parry-drew/Cooking/blob/master/ScallopedPotatoes.md)
 
 #### Soup
 * [Bean Soup](https://github.com/parry-drew/Cooking/blob/master/BeanSoup.md)
