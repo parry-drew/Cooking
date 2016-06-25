@@ -43,6 +43,7 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 * [Cabbage Casserole](https://github.com/parry-drew/Cooking/blob/master/CabbgeCasserole.md)
 * [Chicken and Broccoli Casserole](https://github.com/parry-drew/Cooking/blob/master/ChickenBroccoliCasserole.md)
 * [Glumpkies](https://github.com/parry-drew/Cooking/blob/master/Glumpkies.md)
+* [Venison Casserole](https://github.com/parry-drew/Cooking/blob/master/VenisonCasserole.md)
 
 #### Desserts
 * [Apple Crunch](https://github.com/parry-drew/Cooking/blob/master/AppleCrunch.md)
@@ -64,5 +65,11 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 #### Beef/Veal
 * [Boeuf Bourguignonne](https://github.com/parry-drew/Cooking/blob/master/BoeufBourguignonne.md)
 
-#### Sauces
-* [Bar-B-Que Sauce](https://github.com/parry-drew/Cooking/blob/master/Bar-B-QueSauce.md)
+#### Salad
+* [Spinach Salad](https://github.com/parry-drew/Cooking/blob/master/SpinachSalad.md)
+
+#### Sides
+* [BScalloped Potatoes](https://github.com/parry-drew/Cooking/blob/master/ScallopedPotatoes.md)
+
+#### Soup
+* [Bean Soup](https://github.com/parry-drew/Cooking/blob/master/BeanSoup.md)
