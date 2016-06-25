@@ -57,3 +57,12 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 * [Poor House Cake](https://github.com/parry-drew/Cooking/blob/master/PoorHouseCake.md)
 * [Pudding Cake](https://github.com/parry-drew/Cooking/blob/master/PuddingCake.md)
 * [Swedish Cake](https://github.com/parry-drew/Cooking/blob/master/SwedishCake.md)
+
+#### Fish
+* [Salmon Patties](https://github.com/parry-drew/Cooking/blob/master/SalmonPatties.md)
+
+#### Beef/Veal
+* [Boeuf Bourguignonne](https://github.com/parry-drew/Cooking/blob/master/BoeufBourguignonne.md)
+
+#### Sauces
+* [Bar-B-Que Sauce](https://github.com/parry-drew/Cooking/blob/master/Bar-B-QueSauce.md)
