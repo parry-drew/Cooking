@@ -7,7 +7,7 @@
 ```
  1   bunch beat greens
 
-     a spoonfuls of  * [onions pickled in Lime](https://github.com/parry-drew/Cooking/blob/master/SpinachSalad.md)
+     a spoonfuls of onions pickled in lime
 
      A few dashes of mustard seed, coriander, pepper, salt
 
@@ -24,5 +24,6 @@ Use a low heat.
 Move greens to avoid burning.
 
 Add onion pickled in lime and spices.
+* [see onions pickled in lime](https://github.com/parry-drew/Cooking/blob/master/Sides/BeatGreens.md)
 
 When the green seem tender ( about 3 or 4 minutes)remove from heat and serve.
