@@ -1,7 +1,7 @@
 ## Swedish Cake
 
 * **Serving Size:** 1
-* **Categories:** Desserts
+* **Categories:** Desserts Vegan
 
 ```
  1   stick margarine

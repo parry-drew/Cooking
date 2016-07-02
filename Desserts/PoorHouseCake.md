@@ -1,7 +1,7 @@
 ## Poor House Cake
 
 * **Serving Size:** 8
-* **Categories:** Desserts
+* **Categories:** Desserts Vegan
 
 ```
  1   cups flour
