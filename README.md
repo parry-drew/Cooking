@@ -59,6 +59,8 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 * [Poor House Cake](https://github.com/parry-drew/Cooking/blob/master/Desserts/PoorHouseCake.md)
 * [Pudding Cake](https://github.com/parry-drew/Cooking/blob/master/Desserts/PuddingCake.md)
 * [Swedish Cake](https://github.com/parry-drew/Cooking/blob/master/Desserts/SwedishCake.md)
+* [Zucchini Bread](https://github.com/parry-drew/Cooking/blob/master/Desserts/ZucchiniBread.md)
+
 
 #### Fish
 * [Salmon Patties](https://github.com/parry-drew/Cooking/blob/master/Fish/SalmonPatties.md)
