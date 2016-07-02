@@ -1,4 +1,4 @@
-## Bar-B-Que Sauce
+## Bean Soup
 
 * **Serving Size:** 1
 * **Categories:** Soup & Stew

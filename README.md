@@ -40,39 +40,40 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 ## Contents
 
 #### Casseroles
-* [Cabbage Casserole](https://github.com/parry-drew/Cooking/blob/master/CabbgeCasserole.md)
-* [Chicken and Broccoli Casserole](https://github.com/parry-drew/Cooking/blob/master/ChickenBroccoliCasserole.md)
-* [Glumpkies](https://github.com/parry-drew/Cooking/blob/master/Glumpkies.md)
-* [Venison Casserole](https://github.com/parry-drew/Cooking/blob/master/VenisonCasserole.md)
+* [Boeuf Bourguignonne](https://github.com/parry-drew/Cooking/blob/master/Casseroles/BoeufBourguignonne.md)
+* [Cabbage Casserole](https://github.com/parry-drew/Cooking/blob/master/Casseroles/CabbgeCasserole.md)
+* [Chicken and Broccoli Casserole](https://github.com/parry-drew/Cooking/blob/master/Casseroles/ChickenBroccoliCasserole.md)
+* [Glumpkies](https://github.com/parry-drew/Cooking/blob/master/Casseroles/Glumpkies.md)
+* [Venison Casserole](https://github.com/parry-drew/Cooking/blob/master/Casseroles/VenisonCasserole.md)
 
 #### Desserts
-* [Apple Crunch](https://github.com/parry-drew/Cooking/blob/master/AppleCrunch.md)
-* [Banana Cake](https://github.com/parry-drew/Cooking/blob/master/BananaCake.md)
-* [Chocolate Chip Cookies](https://github.com/parry-drew/Cooking/blob/master/ChocolateChipCookies.md)
-* [Chocolate/Peanut Butter Topping](https://github.com/parry-drew/Cooking/blob/master/CChocolate/PeanutButterTopping.md)
-* [Creme Puffs](https://github.com/parry-drew/Cooking/blob/master/CChocolate/CremePuffs.md)
-* [Molasses Crinkles](https://github.com/parry-drew/Cooking/blob/master/MolassesCrinkles.md)
-* [No Bake Chocolate Cookies](https://github.com/parry-drew/Cooking/blob/master/NoBakeChocolateCookies.md)
-* [Peanut Butter Fudge](https://github.com/parry-drew/Cooking/blob/master/PeanutButterFudge.md)
-* [Pineapple Upside Cake](https://github.com/parry-drew/Cooking/blob/master/PineappleUpsideCake.md)
-* [Poor House Cake](https://github.com/parry-drew/Cooking/blob/master/PoorHouseCake.md)
-* [Pudding Cake](https://github.com/parry-drew/Cooking/blob/master/PuddingCake.md)
-* [Swedish Cake](https://github.com/parry-drew/Cooking/blob/master/SwedishCake.md)
+* [Apple Crunch](https://github.com/parry-drew/Cooking/blob/master/Desserts/AppleCrunch.md)
+* [Banana Cake](https://github.com/parry-drew/Cooking/blob/master/Desserts/BananaCake.md)
+* [Chocolate Chip Cookies](https://github.com/parry-drew/Cooking/blob/master/Desserts/ChocolateChipCookies.md)
+* [Chocolate/Peanut Butter Topping](https://github.com/parry-drew/Cooking/blob/master/CChocolate/Desserts/PeanutButterTopping.md)
+* [Creme Puffs](https://github.com/parry-drew/Cooking/blob/master/Desserts/CremePuffs.md)
+* [Molasses Crinkles](https://github.com/parry-drew/Cooking/blob/master/Desserts/MolassesCrinkles.md)
+* [No Bake Chocolate Cookies](https://github.com/parry-drew/Cooking/blob/master/Desserts/NoBakeChocolateCookies.md)
+* [Peanut Butter Fudge](https://github.com/parry-drew/Cooking/blob/master/Desserts/PeanutButterFudge.md)
+* [Pineapple Upside Cake](https://github.com/parry-drew/Cooking/blob/master/Desserts/PineappleUpsideCake.md)
+* [Poor House Cake](https://github.com/parry-drew/Cooking/blob/master/Desserts/PoorHouseCake.md)
+* [Pudding Cake](https://github.com/parry-drew/Cooking/blob/master/Desserts/PuddingCake.md)
+* [Swedish Cake](https://github.com/parry-drew/Cooking/blob/master/Desserts/SwedishCake.md)
 
 #### Fish
-* [Salmon Patties](https://github.com/parry-drew/Cooking/blob/master/SalmonPatties.md)
-
-#### Beef/Veal
-* [Boeuf Bourguignonne](https://github.com/parry-drew/Cooking/blob/master/BoeufBourguignonne.md)
+* [Salmon Patties](https://github.com/parry-drew/Cooking/blob/master/Fish/SalmonPatties.md)
 
 #### Salad
-* [Spinach Salad](https://github.com/parry-drew/Cooking/blob/master/SpinachSalad.md)
+* [Spinach Salad](https://github.com/parry-drew/Cooking/blob/master/Salad/SpinachSalad.md)
 
 #### Sides
-* [Scalloped Potatoes](https://github.com/parry-drew/Cooking/blob/master/ScallopedPotatoes.md)
+* [Beat Greens](https://github.com/parry-drew/Cooking/blob/master/Sides/BeatGreens.md)
+* [Pickled Onions](https://github.com/parry-drew/Cooking/blob/master/Sides/PickledOnions.md)
+* [Scalloped Potatoes](https://github.com/parry-drew/Cooking/blob/master/Sides/ScallopedPotatoes.md)
 
 #### Soup
-* [Bean Soup](https://github.com/parry-drew/Cooking/blob/master/BeanSoup.md)
+* [Bean Soup](https://github.com/parry-drew/Cooking/blob/master/Soup/BeanSoup.md)
 
 #### Vegetarian/Vegan
-* [Baked Seitan](https://github.com/parry-drew/Cooking/blob/master/BakedSeitan.md)
+* [Baked Seitan](https://github.com/parry-drew/Cooking/blob/master/Vegetarian_Vegan/BakedSeitan.md)
+* [Kentucky Fried Tofu](https://github.com/parry-drew/Cooking/blob/master/Vegetarian_Vegan/KentuckyFriedTofu.md)
