@@ -61,6 +61,9 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 * [Swedish Cake](https://github.com/parry-drew/Cooking/blob/master/Desserts/SwedishCake.md)
 * [Zucchini Bread](https://github.com/parry-drew/Cooking/blob/master/Desserts/ZucchiniBread.md)
 
+#### Drinks
+* [Barely Water](https://github.com/parry-drew/Cooking/blob/master/Drinks/BarelyWater.md)
+* [Hot Tottie](https://github.com/parry-drew/Cooking/blob/master/Drinks/HotTottie.md)
 
 #### Fish
 * [Salmon Patties](https://github.com/parry-drew/Cooking/blob/master/Fish/SalmonPatties.md)
