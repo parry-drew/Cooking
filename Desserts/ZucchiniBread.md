@@ -37,7 +37,7 @@ In a large bowl, whisk together flour, baking soda, baking powder, salt and spic
 
 In a medium bowl, whisk together Almond Milk, vegetable oil, vanilla extract, and sugars.  Shred the zucchini using a grater and squeeze it over a strainer to release some of the liquid. Whisk thoroughly, then add the shredded zucchini and almonds.
 
-Pour the wet ingredients into the dry ingredients and fold together with a spatula.  Make sure all of the flour is thoroughly incorporated into the batter.  Spoon batter into prepared pan, sprinkle the top with sliced almonds and place in the oven.  Bake for about 1 hour, or until a skewer inserted into the center of the bread comes out clean.
+Pour the wet ingredients into the dry ingredients and fold together with a spatula.  Make sure all of the flour is thoroughly incorporated into the batter.  Spoon batter into prepared pan and place in the oven.  Bake for about 1 hour, or until a skewer inserted into the center of the bread comes out clean.
 
 Allow to cool in pan for 20 minutes before inverting onto a wire rack to cool completely.
 
