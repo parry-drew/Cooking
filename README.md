@@ -82,4 +82,4 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 #### Vegetarian/Vegan
 * [Baked Seitan](https://github.com/parry-drew/Cooking/blob/master/Vegetarian_Vegan/BakedSeitan.md)
 * [Burrito](https://github.com/parry-drew/Cooking/blob/master/Vegetarian_Vegan/Burrito.md)
-* [Kentucky Fried Tofu](https://github.com/parry-drew/Cooking/blob/master/Vegetarian_Vegan/KentuckyFriedTofu.md)
+* [Kentucky Fried Tofu](https://github.com/parry-drew/Cooking/blob/master/Vegetarian_Vegan/KentuckyFiredTofu.md)
