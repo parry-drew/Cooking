@@ -69,6 +69,7 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 * [Salmon Patties](https://github.com/parry-drew/Cooking/blob/master/Fish/SalmonPatties.md)
 
 #### Salad
+* [Curtido](https://github.com/parry-drew/Cooking/blob/master/Salad/Curtido.md)
 * [Spinach Salad](https://github.com/parry-drew/Cooking/blob/master/Salad/SpinachSalad.md)
 
 #### Sides
