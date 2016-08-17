@@ -62,7 +62,7 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 * [Zucchini Bread](https://github.com/parry-drew/Cooking/blob/master/Desserts/ZucchiniBread.md)
 
 #### Drinks
-* [Barely Water](https://github.com/parry-drew/Cooking/blob/master/Drinks/BarelyWater.md)
+* [Barely Water](https://github.com/parry-drew/Cooking/blob/master/Drinks/BarleyWater.md)
 * [Hot Tottie](https://github.com/parry-drew/Cooking/blob/master/Drinks/HotTottie.md)
 
 #### Fish
