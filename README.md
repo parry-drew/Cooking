@@ -50,7 +50,7 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 * [Apple Crunch](https://github.com/parry-drew/Cooking/blob/master/Desserts/AppleCrunch.md)
 * [Banana Cake](https://github.com/parry-drew/Cooking/blob/master/Desserts/BananaCake.md)
 * [Chocolate Chip Cookies](https://github.com/parry-drew/Cooking/blob/master/Desserts/ChocolateChipCookies.md)
-* [Chocolate/Peanut Butter Topping](https://github.com/parry-drew/Cooking/blob/master/CChocolate/Desserts/PeanutButterTopping.md)
+* [Chocolate/Peanut Butter Topping](https://github.com/parry-drew/Cooking/blob/master/CChocolate/Desserts/ChocolatePeanutButterTopping.md)
 * [Creme Puffs](https://github.com/parry-drew/Cooking/blob/master/Desserts/CremePuffs.md)
 * [Molasses Crinkles](https://github.com/parry-drew/Cooking/blob/master/Desserts/MolassesCrinkles.md)
 * [No Bake Chocolate Cookies](https://github.com/parry-drew/Cooking/blob/master/Desserts/NoBakeChocolateCookies.md)
@@ -62,7 +62,7 @@ make this a living cookbook, I would love to be the secretary to keep it up-to-d
 * [Zucchini Bread](https://github.com/parry-drew/Cooking/blob/master/Desserts/ZucchiniBread.md)
 
 #### Drinks
-* [Barely Water](https://github.com/parry-drew/Cooking/blob/master/Drinks/BarleyWater.md)
+* [Barley Water](https://github.com/parry-drew/Cooking/blob/master/Drinks/BarleyWater.md)
 * [Hot Tottie](https://github.com/parry-drew/Cooking/blob/master/Drinks/HotTottie.md)
 
 #### Fish
